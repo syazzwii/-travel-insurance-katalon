@@ -8,6 +8,18 @@ The automation simulates a real-world airline booking journey using the BlazeDem
 
 ---
 
+## Test Case Documentation
+
+All manual test cases are stored in:
+
+/docs/Airline_Travel_Insurance_Test_Cases.pdf
+
+This document contains:
+- Functional test cases
+- Negative test cases
+- Integration test cases
+- Cross-browser test cases
+
 ## Application Under Test
 
 **BlazeDemo (Demo Flight Booking Application)**  
@@ -95,3 +107,4 @@ TravelInsuranceAutomation/
 ├── Reports/
 ├── project.prj
 └── README.md
+
